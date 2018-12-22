@@ -2,6 +2,7 @@ Travel Diary
 -------------
 - photos
 - videos
+- laptop
 
 Locations
 ----------
